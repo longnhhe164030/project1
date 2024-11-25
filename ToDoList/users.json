@@ -1,0 +1,37 @@
+[
+    {
+        "username": "long",
+        "email": "longnh@gmail.com",
+        "password": "1"
+    },
+    {
+        "username": "Son",
+        "email": "Sonnt@gmail.com",
+        "password": "2"
+    },
+    {
+        "username": "Hoang",
+        "email": "hoangvm@gmail.com",
+        "password": "3"
+    },
+    {
+        "username": "Long Hoang",
+        "email": "longnhhe164030@fpt.edu.vn",
+        "password": "4"
+    },
+    {
+        "username": "long12",
+        "email": "long12@gmail.com",
+        "password": "2"
+    },
+    {
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "password": "89"
+    },
+    {
+        "username": "son12",
+        "email": "son12@gmail.com",
+        "password": "6"
+    }
+]
